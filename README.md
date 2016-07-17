@@ -25,7 +25,7 @@ _Shadowsocks is a fast tunnel proxy that helps you bypass firewalls._
 `yum -y install git`**
 
 6. Change the directory to `Shadowsocks-manyuser`   
-For example :`cd /root/Shadowsocks-manyuser`
+For example : `cd /root/Shadowsocks-manyuser`
 
 7. Edit the configuration file `Config.py`   
 `vi Config.py`   
@@ -43,7 +43,7 @@ Then edit the database address, port, user name, password, etc.
 
 3. The same as _Installing on RPM-based OS_
 
-If your server running as this, that means you install `Shadowsocks-manyuser` successfully !
+If your server running as this, that means you've installed `Shadowsocks-manyuser` successfully !
 
 ![running](http://7xkvpc.com1.z0.glb.clouddn.com/shadowsocksmanyuser.png)
 
