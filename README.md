@@ -43,10 +43,6 @@ Then edit the database address, port, user name, password, etc.
 
 3. The same as _Installing on RPM-based OS_
 
-If your server running as this, that means you've installed `Shadowsocks-manyuser` successfully !
-
-![running](http://7xkvpc.com1.z0.glb.clouddn.com/shadowsocksmanyuser.png)
-
 **Enjoy!**
 
 > **Note :**   
