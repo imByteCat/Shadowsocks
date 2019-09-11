@@ -33,7 +33,7 @@ vim Config.py
 ```
 Then edit the database address, port, user name, password, etc.
 
-8. Run the Shadowsocks Server   
+6. Run the Shadowsocks Server   
 ```
 python server.py
 ```
@@ -53,7 +53,7 @@ apt install -y m2crypto python-pip
 
 **Enjoy!**
 
-> **Note :**   
-> You should allow shadowsocks ports ot stop the firewall first.
-> You can use this commond to stop firewall:
+> **Note :**  
+> You should allow shadowsocks ports ot stop the firewall first.  
+> You can use this commond to stop firewall:  
 > `service iptables stop`
