@@ -52,8 +52,3 @@ apt install -y m2crypto python-pip
 3. The same as _Installing on RPM-based OS_
 
 **Enjoy!**
-
-> **Note :**  
-> You should allow shadowsocks ports ot stop the firewall first.  
-> You can use this commond to stop firewall:  
-> `service iptables stop`
