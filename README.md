@@ -1,12 +1,13 @@
 # Shadowsocks Manyuser
 _Shadowsocks is a fast tunnel proxy that helps you bypass firewalls._
 
-> This is a backup copy of _[shadowsocks manyuser](https://github.com/shadowsocks/shadowsocks)_(Removed).
+> This is a backup copy of _[shadowsocks manyuser](https://github.com/shadowsocks/shadowsocks)_ (removed).
 > Thanks to _[clowwindy](https://github.com/clowwindy)_.
 
 ## Install
 
 ### Installing on RPM-based OS
+
 1. Update Packages
 ```
 yum -y update
@@ -39,6 +40,7 @@ python server.py
 ```
 
 ### Installing on Debian-based OS
+
 1. Update Packages
 ```
 apt -y update
